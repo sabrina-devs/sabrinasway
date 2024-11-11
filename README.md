@@ -5,15 +5,22 @@
 - <b>Active Directory Lab (Coming Soon)</b>
   - [ActiveDirectoryLab](https://github.com/sabrinasway/xx)
 
-
 <h2>📺 Latest YouTube Videos</h2>
 
 - [How to Get Into Tech](ComingSoon)
 
 
-<h2> 🌱 Certifications </h2>
+<h2> 🌱 Certifications: </h2>
 
 - <b>Google IT Support Professional Certificate [In Progress]</b>
+
+  - [Link to the Course] (
+ 
+<h2> 🌱 Educational Resources: </h2>
+
+- <b>Access my Repository </b>
+
+  - [Entry Level IT Support] ( )
 
 <h2> 🤳 Connect with me:</h2>
 
