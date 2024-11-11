@@ -1,6 +1,6 @@
-<h1>Hi, I'm Sabrina! <br/><a href="https://github.com/sabrinasway"> Tech Things </a> 💾 <a href="https://www.linkedin.com/in/sabrinasway/">LinkedIn </a> 📇 <a href="https://www.youtube.com/c/sabrinasway">YouTuber</a>📽️</h1>
+<h1>Hi, I'm Sabrina! <br/><a href="https://github.com/sabrinasway"> Tech Things </a> 💾 <a href="https://www.linkedin.com/in/sabrinasway/">LinkedIn </a> 📇 <a href="https://www.youtube.com/c/sabrinasway">YouTube</a>📽️</h1>
 
-<h2>👨‍💻 IT Development Projects:</h2>
+<h2>👩🏻‍💻 IT Dev Projects:</h2>
 
 - <b>Active Directory Lab (Coming Soon)</b>
   - [ActiveDirectoryLab](https://github.com/sabrinasway/xx)
@@ -10,11 +10,11 @@
 - [How to Get Into Tech](ComingSoon)
 
 
-<h2> 🌱 Certifications: </h2>
+<h2> 🗞️ Education in Progress: </h2>
 
-- <b>Google IT Support Professional Certificate [In Progress]</b>
-
-  - [Link to the Course] (
+- <b>Google IT Support Professional Certificate [Expected: November 2024]</b>
+- <b>CompTIA A+ Certification [Expected: December 2024]</b>
+- <b>B.S. Cloud Computing [Expected: Fall 2026]</b>
  
 <h2> 👩🏻‍🏫 Career Dev Resources: </h2>
 
