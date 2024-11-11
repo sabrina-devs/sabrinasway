@@ -16,11 +16,11 @@
 
   - [Link to the Course] (
  
-<h2> 🌱 Educational Resources: </h2>
+<h2> 👩🏻‍🏫 Career Dev Resources: </h2>
 
-- <b>Access my Repository </b>
+- <b>My Full Stack of Education Content</b>
 
-  - [Entry Level IT Support] ( )
+  - [Entry Level IT Support](https://github.com/SabrinasWay/education-itsupport)
 
 <h2> 🤳 Connect with me:</h2>
 
