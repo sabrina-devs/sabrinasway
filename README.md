@@ -1,22 +1,25 @@
-<h1>Hi, I'm Sabrina! <br/><a href="https://github.com/sabrinasway"> Tech Things </a> 💾 <a href="https://www.linkedin.com/in/sabrinasway/">LinkedIn </a> 📇 <a href="https://www.youtube.com/c/sabrinasway">YouTube</a>📽️</h1>
+<h1>Hi👋, I'm Sabrina! <br/><a href="https://github.com/sabrinasway"> Tech Things </a> 💾 <a href="https://www.linkedin.com/in/sabrinasway/">LinkedIn </a> 📇 <a href="https://www.youtube.com/c/sabrinasway">YouTube</a>📽️</h1>
 
 <h2>👩🏻‍💻 IT Dev Projects:</h2>
 
-- <b>Active Directory Lab (Coming Soon)</b>
+- <b>Active Directory Lab (In Progress)</b>
   - [ActiveDirectoryLab](https://github.com/sabrinasway/xx)
 
 <h2>📺 Latest YouTube Videos</h2>
 
-- [How to Get Into Tech](ComingSoon)
+- [Tutorial: How to Update Software using a Terminal (macOS)](https://youtu.be/YhgW-E7aOiQ)
+ 
+<h2>🪜 Process Walk-Through</h2>
 
+-[How to Update Software Linux CLI](https://github.com/SabrinasWay/Software-Maintenance/tree/main)
 
-<h2> 🗞️ Education in Progress: </h2>
+<h2> 🤓 Education in Progress: </h2>
 
-- <b>Google IT Support Professional Certificate [Expected: November 2024]</b>
+- <b>Google IT Support Professional Certificate [Expected: November 2024] 60% Completed</b>
 - <b>CompTIA A+ Certification [Expected: December 2024]</b>
 - <b>B.S. Cloud Computing [Expected: Fall 2026]</b>
  
-<h2> 👩🏻‍🏫 Career Dev Resources: </h2>
+<h2> 👩🏻‍🏫 Educationa & Research Resources: </h2>
 
 - <b>My Full Stack of Education Content</b>
 
