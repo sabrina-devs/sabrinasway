@@ -11,7 +11,7 @@
  
 <h2>🪜 Process Walk-Through</h2>
 
--[How to Update Software Linux CLI](https://github.com/SabrinasWay/Software-Maintenance/tree/main)
+- [How to Update Software Using a Terminal](https://github.com/SabrinasWay/Software-Maintenance/tree/main)
 
 <h2> 🤓 Education in Progress: </h2>
 
@@ -19,11 +19,11 @@
 - <b>CompTIA A+ Certification [Expected: December 2024]</b>
 - <b>B.S. Cloud Computing [Expected: Fall 2026]</b>
  
-<h2> 👩🏻‍🏫 Educationa & Research Resources: </h2>
+<h2> 👩🏻‍🏫 Researched Resources: </h2>
 
-- <b>My Full Stack of Education Content</b>
+- <b>Explore my Library</b>
 
-  - [Entry Level IT Support](https://github.com/SabrinasWay/education-itsupport)
+  - [Education Page](https://github.com/SabrinasWay/education-itsupport)
 
 <h2> 🤳 Connect with me:</h2>
 
