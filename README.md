@@ -16,8 +16,9 @@
 <h2> 🤓 Education in Progress: </h2>
 
 - <b>Google IT Support Professional Certificate [Expected: November 2024] 60% Completed</b>
-- <b>CompTIA A+ Certification [Expected: December 2024]</b>
-- <b>B.S. Cloud Computing [Expected: Fall 2026]</b>
+- <b>Certified Cloud Practitioner [Expected: April 2025]</b>
+- <b>AWS Cloud Institute - Cloud Application Developer [Expected: September 2025]</b>
+- <b>Certified Solutions Architect [Expected: October 2025]</b>
  
 <h2> 👩🏻‍🏫 Researched Resources: </h2>
 
@@ -32,7 +33,7 @@
 [<img align="left" alt="SabrinasWay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SabrinasWay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
-[tiktok]: [https://tiktok.com](https://www.tiktok.com/@sabrinas.way
+[tiktok]: [https://tiktok.com](https://www.tiktok.com/@sabrinas.way 
 [youtube]: https://www.youtube.com/c/sabrinasway
 [linkedin]: https://linkedin.com/in/sabrinasway
 [email]: sabrinaswaycollab@gmail.com
