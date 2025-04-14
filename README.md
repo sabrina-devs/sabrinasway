@@ -1,42 +1,29 @@
-<h1>Hi👋, I'm Sabrina! <br/><a href="https://github.com/sabrinasway"> Tech Things </a> 💾 <a href="https://www.linkedin.com/in/sabrinasway/">LinkedIn </a> 📇 <a href="https://www.youtube.com/c/sabrinasway">YouTube</a>📽️</h1>
+<h1>Hi👋, I'm Sabrina! Welcome to my Project's Page</h1>
 
-<h2>👩🏻‍💻 IT Dev Projects:</h2>
+<h2> 📽️ Latest Video s </h2>
 
-- <b>Active Directory Lab (In Progress)</b>
-  - [ActiveDirectoryLab](https://github.com/sabrinasway/xx)
+- [A Data Analyst in the Making](https://youtu.be/IynTMBpr_yI?si=tWMrn05gB1zPEYKr)
 
-<h2>📺 Latest YouTube Videos</h2>
+<h2> 🌱 I’m currently learning ... </h2>
 
-- [Tutorial: How to Update Software using a Terminal (macOS)](https://youtu.be/YhgW-E7aOiQ)
+- <b>Data Camp // Associate Data Analyst in SQL [Expected: April 2025]</b>
+
+- <b>PL-300 // Microsoft Certified: Power BI Data Analyst Associate [Expected: May 2025]</b>
+
+- <b>Data Camp // Data Analyst in Python [Expected: Jun 2025]</b>
+
+- <b>Data Camp // Data Analyst in Tableau -> Track: Tableau Certified Analyst [Expected: Jul 2025]</b>
+
+<h2> ⚡ Projects I'm currently working on ...</h2>
+
+- <b>Come back Soon</b>
  
-<h2>🪜 Process Walk-Through</h2>
 
-- [How to Update Software Using a Terminal](https://github.com/SabrinasWay/Software-Maintenance/tree/main)
+<h2> - 📫 How to reach me ... </h2>
 
-<h2> 🤓 Education in Progress: </h2>
-
-- <b>Google IT Support Professional Certificate [Expected: November 2024] 60% Completed</b>
-- <b>Certified Cloud Practitioner [Expected: April 2025]</b>
-- <b>AWS Cloud Institute - Cloud Application Developer [Expected: September 2025]</b>
-- <b>Certified Solutions Architect [Expected: October 2025]</b>
- 
-<h2> 👩🏻‍🏫 Researched Resources: </h2>
-
-- <b>Explore my Library</b>
-
-  - [Education Page](https://github.com/SabrinasWay/education-itsupport)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="SabrinasWay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SabrinasWay | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />][tiktok]
-[<img align="left" alt="SabrinasWay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SabrinasWay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
-
-[tiktok]: [https://tiktok.com](https://www.tiktok.com/@sabrinas.way 
-[youtube]: https://www.youtube.com/c/sabrinasway
-[linkedin]: https://linkedin.com/in/sabrinasway
-[email]: sabrinaswaycollab@gmail.com
+[youtube](https://www.youtube.com/@SabrinaMeetsData)
+[linkedin](https://linkedin.com/in/sabrinacarapia)
+[e-mail](sabrinameetsdata@gmail.com)
 
 <!--
 **sabrinasway/sabrinasway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
