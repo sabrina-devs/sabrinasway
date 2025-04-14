@@ -1,6 +1,6 @@
 <h1>Hi👋, I'm Sabrina! Welcome to my Project's Page</h1>
 
-<h2> 📽️ Latest Video s </h2>
+<h2> 📽️ Latest Video(s) </h2>
 
 - [A Data Analyst in the Making](https://youtu.be/IynTMBpr_yI?si=tWMrn05gB1zPEYKr)
 
@@ -16,7 +16,7 @@
 
 <h2> ⚡ Projects I'm currently working on ...</h2>
 
-- <b>Come back Soon</b>
+- <b>Coming Soon</b>
  
 
 <h2> - 📫 How to reach me ... </h2>
